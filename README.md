@@ -6,7 +6,6 @@
 ## Aim
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
 Deterministic Finite Automaton (DFA).
-
 # ALGORITHM
 Step 1 : Take ∈ closure for the beginning state of NFA as beginning state of DFA. 
 
@@ -18,7 +17,6 @@ Step 3 : If any new state is found take it as current state and repeat step 2.
 Step 4 : Do repeat Step 2 and Step 3 until no new state present in DFA transition table. 
 
 Step 5 : Mark the states of DFA which contains final state of NFA as final states of DFA.
-
 # PROGRAM
 ```
 // C Program to illustrate how to convert e-nfa to DFA
@@ -344,11 +342,9 @@ int main() {
   return 0;
 }
 ```
-
 # OUTPUT 
 ![image](https://github.com/SanjithaBolisetti/Ex-1-NFA-to-DFA/assets/119393633/bd935a1d-2024-4fb4-893d-8dd9824c8a72)
 ![image](https://github.com/SanjithaBolisetti/Ex-1-NFA-to-DFA/assets/119393633/e0119d5c-87a5-41d5-a0e0-029242653abc)
-
 # RESULT
 The program was sucessfully converted from NFA to DFA.
 
