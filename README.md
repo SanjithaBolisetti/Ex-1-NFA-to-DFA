@@ -344,6 +344,7 @@ int main() {
 ```
 # OUTPUT 
 ![image](https://github.com/SanjithaBolisetti/Ex-1-NFA-to-DFA/assets/119393633/bd935a1d-2024-4fb4-893d-8dd9824c8a72)
+
 ![image](https://github.com/SanjithaBolisetti/Ex-1-NFA-to-DFA/assets/119393633/e0119d5c-87a5-41d5-a0e0-029242653abc)
 # RESULT
 The program was sucessfully converted from NFA to DFA.
